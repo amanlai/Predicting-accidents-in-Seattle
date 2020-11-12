@@ -1,1 +1,5 @@
 # Predicting-accidents-in-Seattle
+
+If you commute daily, it is not uncommon to come across a car accident. You may not have seen it firsthand, but you definitely have experienced traffic jams that are caused by one. Car accidents are a daily occurrence on city roads and highways; and accidents cost a lot, financially, psychologically and as lost-time. People try to minimize these costs before it is even incurred by buying insurance. So in essence, because we want to avoid the costs associated with a chance event, we pay a definite amount to protect ourselves against it.
+
+If we can predict the likelihood if an accident at any given moment, we can avoid all the costs and pain related to accidents. However, that is outside the scope of this project. If we accept accidents as a fact of life, the next best solution is to predict how bad an accident will be, given the current weather, time and road condition. If we can predict that, we can drive more carefully or even change our route if we can. 
